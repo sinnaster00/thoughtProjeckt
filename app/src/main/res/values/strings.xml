@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">thoughtProjeckt</string>
+
+    <string name="big_dot">0</string>
+    <string name="small_dot">.</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="thought">3</string>
+    <string name="forth">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="btn_delenie">/</string>
+    <string name="btn_x">x</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_ravno">=</string>
+
+    <string name="btn_AC">AC</string>
+    <string name="btn_plus_minus">+/-</string>
+    <string name="btn_procent">%</string>
+</resources>
